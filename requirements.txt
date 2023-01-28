@@ -5,7 +5,7 @@
 #    pip-compile requirements.in
 #
 appmode==0.8.0           # via -r requirements.in
-ipython==7.19.0           # via -r requirements.in, ipykernel, ipywidgets
+ipython==7.16.3           # via -r requirements.in, ipykernel, ipywidgets
 ipywidgets==7.6.2        # via -r requirements.in
 matplotlib==3.3.3         # via -r requirements.in
 numpy==1.19.4             # via -r requirements.in, matplotlib

@@ -9,4 +9,4 @@ ipython==7.16.3           # via -r requirements.in, ipykernel, ipywidgets
 ipywidgets==7.6.2        # via -r requirements.in
 matplotlib==3.3.3         # via -r requirements.in
 numpy==1.19.4             # via -r requirements.in, matplotlib
-scipy==1.6.0
+scipy==1.5.4
